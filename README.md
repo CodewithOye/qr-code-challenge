@@ -1,1 +1,2 @@
-# qr-code-challenge
+# qr-code-front-end dev challenge
+
