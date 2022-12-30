@@ -1,4 +1,4 @@
-# qr-code-front-end dev challenge
+# This is a solution to qr-code-front-end dev challenge
 
 # Links
 Live solution: ()
